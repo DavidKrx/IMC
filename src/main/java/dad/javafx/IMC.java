@@ -1,6 +1,7 @@
-package dad.javafx.IMC;
+package dad.javafx;
 
 import javafx.application.Application;
+
 
 import javafx.beans.binding.Bindings;
 import javafx.beans.property.SimpleDoubleProperty;
